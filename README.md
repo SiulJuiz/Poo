@@ -1,2 +1,2 @@
-# Poo
+#P.Orientada a Objetos
 Repositorio
